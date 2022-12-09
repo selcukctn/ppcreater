@@ -104,11 +104,6 @@ const Creator = ({route,navigation}) => {
         </View>
         </> 
       }
-        <Text 
-          style={{fontWeight:'bold', color:'white', textAlign:'center'}}
-        >
-         Image created by Dall-e  
-        </Text>
         <Image
           source={{uri:image}}
           resizeMode={'contain'} 

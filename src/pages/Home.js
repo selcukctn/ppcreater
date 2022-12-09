@@ -11,7 +11,7 @@ import bcki from '../img/bcki.jpg';
 import info_ico from '../img/info.png';
 
 const url = 'https://api.openai.com/v1/images/generations';
-const apiKey = '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';
+const apiKey = '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';
 const headers = {
   'Content-Type': 'application/json',
   'Authorization': `Bearer ${apiKey}`
