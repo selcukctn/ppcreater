@@ -26,6 +26,7 @@ const Home = ({navigation}) => {
       "n": 1,
       "size": "1020x1020"
     });
+    const warn = [];
 
     function handleFilter(){
         let flag =0;
